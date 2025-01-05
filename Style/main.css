@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #110133;
+}
+body{
+    width: 1080px;
+    margin:0 auto;
+}
+#nev{
+    background-color: #4DD599;
+    height: 61px;
+    padding-left: 20px;
+
+}
+#nevImage{
+    float: left;
+}
+ul{
+    display: inline;
+    float: right;
+
+}
+#nev li{
+list-style-type: none;
+display: inline-block;
+padding: 20px;
+}
+
+.nevItem:hover{
+    background-color: #00918E;
+    color: #FFDC34;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #4DD599;
+}
